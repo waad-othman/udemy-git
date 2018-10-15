@@ -1,5 +1,5 @@
-## Udemy-Git
+## Udemy- Introduction to Git and GitHub Course
 ### first Assignement
 
-Name: Waad Othman
-Not: good luck
+* Name: Waad Othman
+* Note: good luck
